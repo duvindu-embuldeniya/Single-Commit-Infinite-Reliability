@@ -1,6 +1,6 @@
 # Project Setup
 
-![Project Banner](https://drive.google.com/uc?export=view&id=1OmwS9HiLinMHndwUYw_23Suv1PvNI-pE)
+![Project Banner](https://drive.google.com/uc?export=view&id=14lTCplzm1ogrvdRdimDshhm_gE8wpVXI)
 
 ## Getting Started
 
